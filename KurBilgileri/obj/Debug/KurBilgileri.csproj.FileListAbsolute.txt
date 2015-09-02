@@ -1,0 +1,9 @@
+C:\Users\section2\Desktop\NET\SUBAT\2015.02.20\KurBilgileri\KurBilgileri\bin\Debug\KurBilgileri.exe.config
+C:\Users\section2\Desktop\NET\SUBAT\2015.02.20\KurBilgileri\KurBilgileri\bin\Debug\KurBilgileri.exe
+C:\Users\section2\Desktop\NET\SUBAT\2015.02.20\KurBilgileri\KurBilgileri\bin\Debug\KurBilgileri.pdb
+C:\Users\section2\Desktop\NET\SUBAT\2015.02.20\KurBilgileri\KurBilgileri\obj\Debug\KurBilgileri.csprojResolveAssemblyReference.cache
+C:\Users\section2\Desktop\NET\SUBAT\2015.02.20\KurBilgileri\KurBilgileri\obj\Debug\KurBilgileri.Form1.resources
+C:\Users\section2\Desktop\NET\SUBAT\2015.02.20\KurBilgileri\KurBilgileri\obj\Debug\KurBilgileri.Properties.Resources.resources
+C:\Users\section2\Desktop\NET\SUBAT\2015.02.20\KurBilgileri\KurBilgileri\obj\Debug\KurBilgileri.csproj.GenerateResource.Cache
+C:\Users\section2\Desktop\NET\SUBAT\2015.02.20\KurBilgileri\KurBilgileri\obj\Debug\KurBilgileri.exe
+C:\Users\section2\Desktop\NET\SUBAT\2015.02.20\KurBilgileri\KurBilgileri\obj\Debug\KurBilgileri.pdb
